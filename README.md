@@ -1,7 +1,19 @@
 # RPG
 RPG in C++
 
-1/15/2020 Console_RPG_Version_1 (aluu)
+Jan 16, 2020 Console_RPG_Version_1.1 (aluu)
+
+Features added
+- Player class (Player.h)
+- Item class (Item.h)
+- Player inventory (in Player.h)
+
+Changes
+- a do while loop was implemented for main menu access
+- main menu was converted to a function that displays menu options
+- switch case for menu choice has been implemented
+
+Jan 15, 2020 Console_RPG Version_1 (aluu)
 
 Features Added
 - Function for dungeon (in Function.h)
